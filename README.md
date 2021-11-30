@@ -1,4 +1,4 @@
-# ArtifactNoise　Design Directory
+# ArtifactNoise Design Directory
 ArtifactNoise社内用画像
 
 
